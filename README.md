@@ -111,4 +111,4 @@ This is a sanitized portfolio version of a production-oriented internal tool. Se
 
 ## Status
 
-Portfolio / demonstration version based on a real operational automation project.
+Sanitized source-code version of a real operational automation project.
